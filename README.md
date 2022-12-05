@@ -152,7 +152,7 @@ create the following HTML in the DOM:
   <h3>
     An Essay into the Pom-Pom as Aesthetic Reconfiguration of the Other from a
     post-Frankfurt School Appropriationist Perspective
-  </h3>
+  </h3> 
   <p><em>By: Byron Q. Poodle, Esq., BA.</em></p>
 </main>
 ```

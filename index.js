@@ -13,6 +13,7 @@ li.textContent = "Hi there!";
 console.log(li.textContent);
 // => "Hi there!"
 const main = document.getElementById("main");
+main.removeChild(main.firstElementChild);
 main.innerHTML =
   "<h1>newHeader</h1><h3>An Essay into the Pom-Pom as Aesthetic Reconfiguration of the Other from a post-Frankfurt School Appropriationist Perspective</h3><p><em>By: Byron Q. Poodle, Esq., BA.</em></p>";
   const Element = document.getElementById("main");
